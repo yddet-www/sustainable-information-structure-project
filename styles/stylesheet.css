@@ -22,12 +22,12 @@ body {
     padding: 8px 16px 9px;
 }
 
-#homepage p {
-    padding: 0;
+section, .intro {
+    margin: 16px 2% 16px;
 }
 
-section {
-    margin: 16px 2% 16px;
+#homepage {
+    margin: 16px;
 }
 
 #table_of_contents {
