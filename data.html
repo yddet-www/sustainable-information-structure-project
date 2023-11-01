@@ -11,9 +11,11 @@
 </head>
 
 <body>
-    <a href="./index.html">Home</a>
-    <h1>How to organize and analyze research data</h1>
-
+    <div class="header">
+        <h1>How to organize and analyze research data</h1>
+        <a href="./index.html">Home</a>
+    </div>
+    
     <section>
 
         <aside>
@@ -59,7 +61,7 @@
 
         <ol>
             <li>Each variable name must be different from other variable names.</li>
-            <li>The first variable (in column A) is a unique identifier.</li>
+            <li>The first variable (in column A) is a <strong>unique identifier</strong>.</li>
             <li>Variable names must start with a letter (not numbers or special characters), so change
                 <em>4tutorial_types</em> to <em>tutorial_types</em>.
             </li>
@@ -90,9 +92,9 @@
             </li>
             <li>
                 Separate data into component values whenever possible by adding new columns. For example,
-                <em>tasks_completed values</em> (Y/Y/N) can be broken up into three components. So, add columns task1,
-                task2, and
-                task3, and reformat values appropriately.
+                <em>tasks_completed values</em> (Y/Y/N) can be broken up into three components. So, add columns <em>task1</em>,
+                <em>task2</em>, and
+                <em>task3</em>, and reformat values appropriately.
             </li>
             <li>
                 Double-check to ensure no data entry errors have been made, then delete the old <em>tasks_completed</em>
@@ -128,9 +130,9 @@
             <li>
                 In the Formatted_Data sheet, add new columns with <strong>Insert > Columns</strong> for each distinct
                 value in
-                categorical data columns <em>(tutorial_types, gender, exp_level, task1, task2, and task3)</em>. You do
+                categorical data columns (<em>tutorial_types, gender, exp_level, task1, task2, </em>and <em>task3</em>). You do
                 not have
-                to add a new column for <em>task1, task2, and task3</em> because their values are already dichotomous.
+                to add a new column for <em>task1, task2,</em> and <em>task3</em> because their values are already dichotomous.
             </li>
             <li>
                 Rename columns according to each possible categorical value. Copy and paste the values from the
@@ -256,7 +258,7 @@
             Use your prior knowledge or the
             <a href="http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm">Choosing the Correct Statistic</a>
             resource to determine which statistic to run to find whether there is a significant difference in
-            perc_usefulness between free_play and other tutorial types.
+            <em>perc_usefulness</em> between <em>free_play</em> and other tutorial types.
         </p>
 
         <aside>
@@ -310,7 +312,7 @@
 
         <figure>
             <img src="./illustrations/datalesson_fig7.png"
-                alt="Illustration of a table containing the outputs of  the statistical tests" />
+                alt="Illustration of a table containing the outputs of the statistical tests" />
             <figcaption>
                 PASW allows users to export statistics to common document types.
             </figcaption>

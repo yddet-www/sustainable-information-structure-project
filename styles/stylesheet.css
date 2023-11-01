@@ -8,12 +8,32 @@ body {
     margin: 0;
 }
 
+.header {
+    position: relative;
+    background-color: #E8E9F3;
+    width: 100%;
+    display: inline-flex;
+}
+
+.header a {
+    position: absolute;
+    right: 0;
+    top: 27%;
+    padding: 8px 16px 9px;
+}
+
 #homepage p {
     padding: 0;
 }
 
 section {
     margin: 16px 2% 16px;
+}
+
+#table_of_contents {
+    background-color: #DCF3F9;
+    width: max-content;
+    padding-bottom: 8px;
 }
 
 p {
@@ -31,6 +51,7 @@ aside {
     float: right;
     width: 45%;
     margin-left: 5%;
+    margin-bottom: 16px;
     padding: 8px;
     border-radius: 8px;
 }
@@ -42,7 +63,7 @@ aside p {
 }
 
 aside h3 {
-    margin: 0;
+    margin: 0 0 4px;
     padding: 0;
     background: none;
 }
@@ -56,9 +77,8 @@ figure {
 }
 
 h1 {
-    margin-top: 0;
+    margin: 0;
     color: #272635;
-    background-color: #E8E9F3;
     padding: 16px;
 }
 
@@ -68,6 +88,10 @@ h2, h3 {
     padding: 16px;
     width: max-content;
     margin-bottom: 8px;
+}
+
+h4 {
+    margin-bottom: 0;
 }
 
 #navbar {
