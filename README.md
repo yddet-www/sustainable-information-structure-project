@@ -10,7 +10,9 @@ The overall instructional design architecture is a module-based learning environ
   <li>
     The document should conform to the W3C Specifications on valid HTML5 and should pass validation;
   </li>
+  <li>
     The site should be extensible to accommodate additional modules as they become available, meaning  you should provide a template for the inclusion of a new module that anyone with     your level of familiarity with HTML5 can successfully develop into a fully-formed module;
+  </li>
   <li>
     The stylistic choices, while not elaborate, should use CSS to present the information in a coherent structure that a user can follow as they engage in self-directed learning (HTML     navigation should support this feature, both within modules and in a top-level navigation that makes it easy for users to progress through  the course).
   </li>
