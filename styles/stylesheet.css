@@ -30,7 +30,7 @@ section, .intro {
     margin: 16px;
 }
 
-#table_of_contents {
+.table_of_contents {
     background-color: #DCF3F9;
     width: max-content;
     padding-bottom: 8px;
