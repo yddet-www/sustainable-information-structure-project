@@ -1,7 +1,7 @@
-# Sustainable information structure project
+<h1> Sustainable information structure project </h1>
 
 <section>
-<h1>Overview</h1>
+<h2>Overview</h2>
   
 <p>
 The professor gave me the contents of a website that he wrote and designed with collaborators several years ago: The Research Paper Toolbox. The site was originally to serve as a resource for incoming graduate students. Although they did our best to create a unified information structure for the site, it was a “design by committee” project with a limited timeframe to develop a final version, so it has several inconsistencies and limited ability to sustainably expand or modify content in the future.
