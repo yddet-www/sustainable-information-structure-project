@@ -3,9 +3,9 @@ Project 1
 
 Overview 
 
-I’m giving you the contents of a website that I wrote and designed with collaborators several years ago: The Research Paper Toolbox. The site was originally to serve as a resource for incoming graduate students. Although we did our best to create a unified information structure for the site, it was a “design by committee” project with a limited timeframe to develop a final version, so it has several inconsistencies and limited ability to sustainably expand or modify content in the future.
+The professor gave me the contents of a website that he wrote and designed with collaborators several years ago: The Research Paper Toolbox. The site was originally to serve as a resource for incoming graduate students. Although they did our best to create a unified information structure for the site, it was a “design by committee” project with a limited timeframe to develop a final version, so it has several inconsistencies and limited ability to sustainably expand or modify content in the future.
 
-The overall instructional design architecture is a module-based learning environment with self-assessments at the end of each module. I’ve preserved that module structure, but that is all the information structure information I will give you. You’ll infer the rest from the stylistic cues in the document that imply the semantic relationship between elements and execute your markup based on the following principles: 
+The overall instructional design architecture is a module-based learning environment with self-assessments at the end of each module. The professor have preserved that module structure, but that is all the information structure information he gave me. I inferred the rest from the stylistic cues in the document that imply the semantic relationship between elements and execute your markup based on the following principles: 
 
 <ol>
   <li>
