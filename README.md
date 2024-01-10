@@ -1,4 +1,4 @@
-# com421
+# Sustainable information structure project
 Project 1
 
 Overview 
